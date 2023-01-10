@@ -1,0 +1,232 @@
+1673338986145	geckodriver	INFO	Listening on 127.0.0.1:62840
+1673338989175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofile7APFDf"
+1673339059351	geckodriver	INFO	Listening on 127.0.0.1:62940
+1673339062401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofile3S3rzC"
+1673339062623	Marionette	INFO	Marionette enabled
+1673339062626	Marionette	INFO	Listening on port 62951
+WebDriver BiDi listening on ws://127.0.0.1:62941
+Read port: 62951
+1673339062813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofile3S3rzC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62941/devtools/browser/e77ab142-8219-417a-bb36-08ce1bbb7e58
+[2023-01-10T08:24:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T08:24:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T08:24:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T08:24:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673339076508	Marionette	INFO	Stopped listening on port 62951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673341774931	geckodriver	INFO	Listening on 127.0.0.1:63367
+1673341791965	geckodriver	INFO	Listening on 127.0.0.1:63375
+1673341795033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63376" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileAwkSyr"
+1673341795308	Marionette	INFO	Marionette enabled
+1673341795313	Marionette	INFO	Listening on port 63385
+Read port: 63385
+WebDriver BiDi listening on ws://127.0.0.1:63376
+1673341795396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileAwkSyr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63376/devtools/browser/211d7d3e-5401-4f40-aa92-50f5c47631d4
+[2023-01-10T09:09:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:09:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:09:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:09:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673341809814	Marionette	INFO	Stopped listening on port 63385
+1673341905599	geckodriver	INFO	Listening on 127.0.0.1:58201
+1673341908656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileOT2tWc"
+1673341908879	Marionette	INFO	Marionette enabled
+1673341908882	Marionette	INFO	Listening on port 58233
+WebDriver BiDi listening on ws://127.0.0.1:58202
+Read port: 58233
+1673341909054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileOT2tWc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58202/devtools/browser/bbdc1fca-45e0-4ecd-9781-2f326120fca7
+1673341910923	Marionette	INFO	Stopped listening on port 58233
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673342264302	geckodriver	INFO	Listening on 127.0.0.1:58590
+1673342267378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileXOUZ2M"
+1673342267603	Marionette	INFO	Marionette enabled
+1673342267606	Marionette	INFO	Listening on port 58605
+WebDriver BiDi listening on ws://127.0.0.1:58591
+Read port: 58605
+1673342267773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileXOUZ2M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58591/devtools/browser/a4241555-b699-471f-a48a-a3751c0228c0
+[2023-01-10T09:17:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:17:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:17:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:17:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673342280975	Marionette	INFO	Stopped listening on port 58605
+1673342718200	geckodriver	INFO	Listening on 127.0.0.1:60259
+1673342721274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilebXl412"
+1673342721477	Marionette	INFO	Marionette enabled
+1673342721480	Marionette	INFO	Listening on port 60269
+Read port: 60269
+WebDriver BiDi listening on ws://127.0.0.1:60260
+1673342721545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilebXl412\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60260/devtools/browser/256583b2-3b04-45d7-a68d-4d913eea7b5d
+[2023-01-10T09:25:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:25:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:25:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:25:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673342736945	Marionette	INFO	Stopped listening on port 60269
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673343102671	geckodriver	INFO	Listening on 127.0.0.1:60644
+1673343105741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilewxIG3D"
+1673343105941	Marionette	INFO	Marionette enabled
+1673343105944	Marionette	INFO	Listening on port 60655
+Read port: 60655
+WebDriver BiDi listening on ws://127.0.0.1:60645
+1673343106008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilewxIG3D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60645/devtools/browser/0da292e5-b258-4b80-b3d6-99e854cc04af
+[2023-01-10T09:31:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:31:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:31:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:31:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673343117279	Marionette	INFO	Stopped listening on port 60655
+JavaScript error: resource:///modules/UrlbarProviderSearchTips.sys.mjs, line 461: TypeError: window is null
+1673343226961	geckodriver	INFO	Listening on 127.0.0.1:60775
+1673343230033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofile7UzmHu"
+1673343230234	Marionette	INFO	Marionette enabled
+1673343230237	Marionette	INFO	Listening on port 60785
+Read port: 60785
+WebDriver BiDi listening on ws://127.0.0.1:60776
+1673343230302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofile7UzmHu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60776/devtools/browser/07ff9ad9-71a0-42a6-811f-9d8af1dade5c
+[2023-01-10T09:33:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:33:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:33:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:33:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673343244708	Marionette	INFO	Stopped listening on port 60785
+1673343393301	geckodriver	INFO	Listening on 127.0.0.1:60879
+1673343396379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileuM5EVE"
+1673343396579	Marionette	INFO	Marionette enabled
+1673343396582	Marionette	INFO	Listening on port 60889
+Read port: 60889
+WebDriver BiDi listening on ws://127.0.0.1:60880
+1673343396649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileuM5EVE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60880/devtools/browser/eca6cd88-633c-4325-9acf-b29198c38096
+[2023-01-10T09:36:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:36:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:36:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:36:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 1733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6950 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673343410542	Marionette	INFO	Stopped listening on port 60889
+1673343615776	geckodriver	INFO	Listening on 127.0.0.1:61011
+1673343618817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilef6z2Q6"
+1673343619016	Marionette	INFO	Marionette enabled
+1673343619019	Marionette	INFO	Listening on port 61021
+Read port: 61021
+WebDriver BiDi listening on ws://127.0.0.1:61012
+1673343619085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilef6z2Q6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61012/devtools/browser/21cb0363-5f06-4f0b-a6a6-40cf35e4b822
+[2023-01-10T09:40:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:40:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:40:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:40:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673343623310	Marionette	INFO	Stopped listening on port 61021
+1673343635657	geckodriver	INFO	Listening on 127.0.0.1:61081
+1673343638729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilePLZ28X"
+1673343638927	Marionette	INFO	Marionette enabled
+1673343638930	Marionette	INFO	Listening on port 61091
+Read port: 61091
+WebDriver BiDi listening on ws://127.0.0.1:61082
+1673343638996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilePLZ28X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61082/devtools/browser/0897cd74-ad11-4945-953d-094cbbea3bc6
+[2023-01-10T09:40:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:40:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:40:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:40:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673343642136	Marionette	INFO	Stopped listening on port 61091
+1673343680539	geckodriver	INFO	Listening on 127.0.0.1:61146
+1673343683602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilebWEZmz"
+1673343683798	Marionette	INFO	Marionette enabled
+1673343683801	Marionette	INFO	Listening on port 61156
+Read port: 61156
+WebDriver BiDi listening on ws://127.0.0.1:61147
+1673343683866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofilebWEZmz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61147/devtools/browser/ec75344e-86a1-413a-a59c-06da998ff936
+[2023-01-10T09:41:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:41:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:41:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:41:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673343687130	Marionette	INFO	Stopped listening on port 61156
+1673343742383	geckodriver	INFO	Listening on 127.0.0.1:61219
+1673343745439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofile1Ji8Rt"
+1673343745636	Marionette	INFO	Marionette enabled
+1673343745639	Marionette	INFO	Listening on port 61229
+Read port: 61229
+WebDriver BiDi listening on ws://127.0.0.1:61220
+1673343745704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofile1Ji8Rt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61220/devtools/browser/37dcf8bc-712d-4794-bd3b-6df33f154116
+[2023-01-10T09:42:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:42:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:42:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:42:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673343749978	Marionette	INFO	Stopped listening on port 61229
+1673344098352	geckodriver	INFO	Listening on 127.0.0.1:61373
+1673344101418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofiledVpVY3"
+1673344101618	Marionette	INFO	Marionette enabled
+1673344101621	Marionette	INFO	Listening on port 61383
+Read port: 61383
+WebDriver BiDi listening on ws://127.0.0.1:61374
+1673344101686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofiledVpVY3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61374/devtools/browser/0e68d9d0-9731-4e31-b06a-b2af152e70b1
+[2023-01-10T09:48:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:48:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:48:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:48:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673344105721	Marionette	INFO	Stopped listening on port 61383
+1673344122419	geckodriver	INFO	Listening on 127.0.0.1:61442
+1673344125503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileTlbcjm"
+1673344125699	Marionette	INFO	Marionette enabled
+1673344125702	Marionette	INFO	Listening on port 61454
+Read port: 61454
+WebDriver BiDi listening on ws://127.0.0.1:61443
+1673344125769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileTlbcjm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61443/devtools/browser/30d844f5-be7a-4ff0-8ac7-3e5c3e7c6d27
+[2023-01-10T09:48:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:48:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:48:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:48:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673344144502	Marionette	INFO	Stopped listening on port 61454
+1673344289321	geckodriver	INFO	Listening on 127.0.0.1:61561
+1673344292364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileyvlYdF"
+1673344292567	Marionette	INFO	Marionette enabled
+1673344292570	Marionette	INFO	Listening on port 61571
+Read port: 61571
+WebDriver BiDi listening on ws://127.0.0.1:61562
+1673344292635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileyvlYdF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61562/devtools/browser/66e80c1d-5f2d-47e5-8d9c-60a888a0c30c
+[2023-01-10T09:51:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:51:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:51:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:51:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673344296031	Marionette	INFO	Stopped listening on port 61571
+1673344364669	geckodriver	INFO	Listening on 127.0.0.1:61655
+1673344367728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileG7BaG9"
+1673344367925	Marionette	INFO	Marionette enabled
+1673344367928	Marionette	INFO	Listening on port 61668
+Read port: 61668
+WebDriver BiDi listening on ws://127.0.0.1:61656
+1673344367994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Julian\\AppData\\Local\\Temp\\rust_mozprofileG7BaG9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61656/devtools/browser/94ad07f2-c4d8-490b-a15c-efa823b0fb07
+[2023-01-10T09:52:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:52:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:52:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-10T09:52:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673344400393	Marionette	INFO	Stopped listening on port 61668
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
