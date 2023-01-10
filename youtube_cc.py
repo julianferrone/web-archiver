@@ -3,8 +3,7 @@ import re
 import pathlib
 import shutil
 
-ROOT_DIR = pathlib.Path(__file__).parent
-
+from globals import ROOT_DIR
 
 def download_subtitles(youtube_url):
     """Downloads subtitles for a given YouTube URL.
