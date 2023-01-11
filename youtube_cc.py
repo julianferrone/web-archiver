@@ -23,6 +23,7 @@ def download_subtitles(youtube_url):
         "writesubtitles": True,
         "writeautomaticsub": True,
         "subtitlesformat": "ttml",
+        "quiet": True,
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download([youtube_url])
