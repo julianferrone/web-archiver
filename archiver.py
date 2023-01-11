@@ -57,8 +57,3 @@ def archive_url(url):
     else:
         archive_web(url=url)
         print(f"Archived webpage at URL {url}")
-
-
-archive_url("https://www.youtube.com/watch?v=Wag-yTyAxPA")
-archive_url("https://mail.google.com/mail/u/0/")
-archive_url("https://stackoverflow.com/questions/51775950/why-isnt-it-possible-to-use-backslashes-in-f-strings#51776122")
