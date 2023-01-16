@@ -44,7 +44,7 @@ This project consists of two components:
 1. **Clio**, the Firefox extension which sends the URLs of the pages you visit to the Archiver web app
 2. **Archiver**, the Flask app which archives the URLs that are passed to it.
 
-Deployment requires 
+Deployment requires deploying both Clio and Archiver at the same time.
 
 ### Deploying Archiver
 1. Activate the virtual environment
