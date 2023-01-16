@@ -9,7 +9,9 @@ from htmldate import find_date
 from readability.readability import Document
 
 from globals import ROOT_DIR
+from custom_logger import create_logger
 
+LOGGER = create_logger(name="web_clipper")
 
 @dataclass
 class WebpageClipping:
@@ -114,3 +116,4 @@ def archive_web(url):
     document = format_clipping(clipping=webpage)
     with path.open(mode="wb") as file:
         file.write(document.encode("UTF-8"))
+    LOGGER.info(f"Archived webpage at URL {url}")
