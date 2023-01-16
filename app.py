@@ -25,14 +25,16 @@ class LoggingMiddleware(object):
 
 @app.route("/")
 def homepage():
-    titles = ["Timestamp", "Logger Name", "Logging Level", "Messages"]
+    logs_path = Path("logs", "archiver.log")
+    if not logs_path.exists():
+        return render_template("homepage.html", data=None)
     with Path("logs", "archiver.log").open(mode="r") as f:
         lines = f.read().splitlines()
     data = []
     for line in lines:
         columns = [col.strip() for col in line.split(" - ") if col]
         data.append(columns)
-    return render_template("homepage.html", titles=titles, data=data)
+    return render_template("homepage.html", data=data)
 
 
 @app.post("/archive")
