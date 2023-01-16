@@ -1,0 +1,30 @@
+<!doctype html>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/stylesheet.css') }}">
+<head>
+    <title>Archiver</title>
+</head>
+
+<body>
+    <h1>Archiver</h1>
+    This is the homepage of the Archiver webapp.
+    <h2>Logs</h2>
+    <table>
+        <thead>
+            <tr>
+                {% for item in titles %}
+                <th>{{item}}</th>
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for timestamp, logger, level, message in data %}
+            <tr>
+                <td>{{timestamp}}</td>
+                <td>{{logger}}</td>
+                <td>{{level}}</td>
+                <td>{{message}}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
