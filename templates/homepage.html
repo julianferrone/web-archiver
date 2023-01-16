@@ -1,6 +1,8 @@
 <!doctype html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="{{ url_for('static', filename='css/stylesheet.css') }}">
 <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
 <head>
     <title>Archiver</title>
 </head>
@@ -12,9 +14,10 @@
     <table>
         <thead>
             <tr>
-                {% for item in titles %}
-                <th>{{item}}</th>
-                {% endfor %}
+                <th class="row-timestamp">Timestamp</th>
+                <th class="row-logger">Logger Name</th>
+                <th class="row-level">Logging Level</th>
+                <th class="row-message">Messages</th>
             </tr>
         </thead>
         <tbody>
