@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Clio",
+    "version": "1.0",
+    "description": "Automatically sends URLs to an archiving web server.",
+    "icons": {
+        "48": "icons/clio-48.png"
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    },
+    "permissions": [
+        "webNavigation",
+        "<all_urls>"
+    ]
+}
