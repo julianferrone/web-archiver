@@ -60,3 +60,9 @@ Deployment requires
 5. Navigate to the subfolder "clio"
     - e.g. `C:\Documents\web-remembrance-agent\clio`
 6. Double-click on the "manifest" file
+
+## Use
+If you want to see the homepage of the Archiver web app (after starting it), go to `127.0.0.1:5000`.
+
+If you want to add a new URL to archive, send a POST request to `127.0.0.1:5000/archive` with the JSON
+request `{"url": url_to_be_archived}`
