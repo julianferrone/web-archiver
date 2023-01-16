@@ -1,6 +1,6 @@
+import argparse
 import pathlib
 import re
-import logging
 
 from globals import ROOT_DIR
 from youtube_cc import archive_youtube
@@ -11,7 +11,7 @@ def setup():
     """Ensures that all necessary folders exist."""
     archive_path = pathlib.Path(ROOT_DIR, "archive")
     paths = [
-        pathlib.Path(ROOT_DIR, "logging"),
+        pathlib.Path(ROOT_DIR, "logs"),
         pathlib.Path(archive_path, "web"),
         pathlib.Path(archive_path, "youtube"),
     ]
@@ -52,8 +52,6 @@ def archive_url(url):
     youtube_pattern = re.compile(r".*youtube.com.*")
     if re.search(pattern=youtube_pattern, string=url):
         archive_youtube(youtube_url=url)
-        print(f"Archived subtitles of video at URL {url}")
     # Archive all other websites using the webpage archiver
     else:
         archive_web(url=url)
-        print(f"Archived webpage at URL {url}")
