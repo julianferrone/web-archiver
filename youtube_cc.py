@@ -43,12 +43,12 @@ def move_subtitles():
         if re.search(pattern=subtitle_pattern, string=str(path))
     ]
     for path in subtitle_paths:
-        filename = path.name
+        filename = pathlib.Path(path.name)
         # Remove the .en and .ttml suffixes
         while filename.suffix in {".en", ".ttml"}:
             filename = filename.with_suffix("")
         # Then add the date and readd the suffixes
-        filename += f"_{today}_.en.ttml"
+        filename = f"{str(filename)}_{today}_.en.ttml"
         
         newpath = pathlib.Path(ROOT_DIR, "archive", "youtube", filename)
         shutil.move(src=path, dst=newpath)
