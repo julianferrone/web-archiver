@@ -1,14 +1,41 @@
-
-
 table {
     width: 100%;
+    table-layout: fixed;
+    white-space: nowrap;
 }
 
 th {
     text-align: left;
-    background-color: #04AA6D;
-    color: whitesmoke;
+    background-color: #0D6793;
+    color: #f6f6f6;
+    padding: 10px;
 }
 
-tr:hover {background-color:gold;}
-tr:nth-child(even) {background-color: lightgray;}
+td {
+    padding: 10px;
+    overflow: hidden;
+}
+
+tr:nth-child(even) {
+    background-color: #E8E8E8;
+}
+
+tr:hover {
+    background-color: #AFE5FF;
+}
+
+.row-timestamp {
+    width: 15%;
+}
+
+.row-logger {
+    width: 10%;
+}
+
+.row-level {
+    width: 10%;
+}
+
+.row-message {
+    width: 65%;
+}
